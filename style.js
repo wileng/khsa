@@ -8,6 +8,6 @@ window.onscroll = function() {
   if (currentScrollPos <= 50) {
     nav.style.backgroundColor = "black";
   } else {
-    nav.style.backgroundColor = "transperant";
+    nav.style.backgroundColor = "transparent";
   }
 }
