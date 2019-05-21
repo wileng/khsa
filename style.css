@@ -1,0 +1,91 @@
+.img-circle {
+    border-radius: 50%;
+}
+
+#home {
+    background-image: url(backgrounds/khsa_logo_1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height:700px;width:1800px;
+}
+
+#officers {
+    background-image: url(backgrounds/officers_18_19_dark.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 20%;
+}
+
+#about_us {
+    background-image: url(backgrounds/events_banner.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 20%;
+}
+
+#events {
+    background-image: url(backgrounds/khsa_winter_retreat.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 20%;
+}
+
+#archive {
+    background-image: url(backgrounds/archive_banner.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 20%;
+}
+
+#contact {
+    background-image: url(backgrounds/contact_banner.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 20%;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: transparent;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 5;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+#navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+.img-thumbnail:hover{
+    
+}
