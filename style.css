@@ -3,62 +3,48 @@
 }
 
 #home {
-    background-image: url(backgrounds/khsa_logo_1.jpg);
-    background-attachment: fixed;
-    background-position: center;
+    background-image: url(backgrounds/transparent_logo.png);
+
+    background-color: palegoldenrod;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
-    height:700px;width:1800px;
+    padding: 20%;
 }
 
-#officers {
-    background-image: url(backgrounds/officers_18_19_dark.jpg);
+#officers,
+#about_us,
+#events,
+#archive,
+#contact {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 15%;
     padding-bottom: 20%;
+}
+
+
+#officers {
+    background-image: url(backgrounds/officers_18_19_dark.jpg);
+
 }
 
 #about_us {
     background-image: url(backgrounds/events_banner.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 15%;
-    padding-bottom: 20%;
 }
 
 #events {
     background-image: url(backgrounds/khsa_winter_retreat.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 15%;
-    padding-bottom: 20%;
 }
 
 #archive {
     background-image: url(backgrounds/archive_banner.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 15%;
-    padding-bottom: 20%;
 }
 
 #contact {
     background-image: url(backgrounds/contact_banner.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 15%;
-    padding-bottom: 20%;
 }
 
 #navbar {
