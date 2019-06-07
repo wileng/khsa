@@ -1,0 +1,37 @@
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: gray;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 250%;
+    padding-left: 30px;
+}
+
+table {
+    padding-left: 50px; 
+}
+
+tr {
+    font-size: 110%;
+}
+
+.resume {
+    margin-top: 100px !important;
+}
