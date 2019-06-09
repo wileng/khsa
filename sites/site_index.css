@@ -19,19 +19,15 @@ a:active {
     text-decoration: none;
 }
 
+p {
+    padding-left: 50px;
+}
+
 h2 {
     font-size: 250%;
     padding-left: 30px;
 }
 
-table {
-    padding-left: 50px; 
-}
-
-tr {
-    font-size: 110%;
-}
-
-.resume {
-    margin-top: 100px !important;
+h4 {
+    padding-left: 30px
 }
